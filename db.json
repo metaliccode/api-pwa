@@ -1,22 +1,17 @@
 {
-  "users": [
-    {
-      "nama": "Ihsan Miftahul Huda",
-      "email": "isan@gmail.com",
-      "divisi": "Fullstack Developer",
-      "id": 1
-    },
-    {
-      "nama": "fasdf",
-      "email": "fasdf",
-      "divisi": "fasdf",
+  {
+      "fullname": "Ihsan Miftahul Huda",
+      "comment": "Fullstack Developer \n                ",
       "id": 2
     },
     {
-      "nama": "fasdfsd",
-      "email": "fasdfasdf",
-      "divisi": "fsadfdasf",
-      "id": 3
+      "fullname": "Dine",
+      "comment": "Perkenalkan nama saya ihsan miftahul huda datang dari kota garut kadungora",
+      "id": 5
+    },
+    {
+      "fullname": "Jamaluddin",
+      "comment": "Anak receh asal tangerang",
+      "id": 6
     }
-  ]
 }
